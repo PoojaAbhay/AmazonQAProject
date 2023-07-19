@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-19T15:25:56 EDT" name="Suite" finished-at="2023-07-19T15:28:10 EDT" duration-ms="133665">
+    <groups>
+    </groups>
+    <test started-at="2023-07-19T15:25:56 EDT" name="Test" finished-at="2023-07-19T15:28:10 EDT" duration-ms="133665">
+      <class name="com.amazon.testcases.ProductSearchTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.testcases.ProductSearchTest@13c3c1e1]" started-at="2023-07-19T15:27:49 EDT" name="setup" finished-at="2023-07-19T15:27:53 EDT" duration-ms="4368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_Functionality_of_Searching_And_Adding_Item_To_The_Cart()[pri:0, instance:com.amazon.testcases.ProductSearchTest@13c3c1e1]" started-at="2023-07-19T15:27:53 EDT" name="verify_Functionality_of_Searching_And_Adding_Item_To_The_Cart" finished-at="2023-07-19T15:28:10 EDT" duration-ms="16446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Functionality_of_Searching_And_Adding_Item_To_The_Cart -->
+      </class> <!-- com.amazon.testcases.ProductSearchTest -->
+      <class name="com.amazon.testcases.CouponsTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.testcases.CouponsTest@5b40ceb]" started-at="2023-07-19T15:27:37 EDT" name="setup" finished-at="2023-07-19T15:27:41 EDT" duration-ms="3954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_availability_of_coupons()[pri:0, instance:com.amazon.testcases.CouponsTest@5b40ceb]" started-at="2023-07-19T15:27:41 EDT" name="verify_availability_of_coupons" finished-at="2023-07-19T15:27:49 EDT" duration-ms="7689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_availability_of_coupons -->
+      </class> <!-- com.amazon.testcases.CouponsTest -->
+      <class name="com.amazon.testcases.ShoppingCartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.testcases.ShoppingCartTest@618c5d94]" started-at="2023-07-19T15:26:09 EDT" name="setup" finished-at="2023-07-19T15:26:15 EDT" duration-ms="5928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_Functionality_of_Adding_Item_To_The_Cart()[pri:1, instance:com.amazon.testcases.ShoppingCartTest@618c5d94]" started-at="2023-07-19T15:26:15 EDT" name="verify_Functionality_of_Adding_Item_To_The_Cart" finished-at="2023-07-19T15:26:37 EDT" duration-ms="22244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Functionality_of_Adding_Item_To_The_Cart -->
+        <test-method signature="verify_Functionality_of_Removing_Item_From_The_Cart()[pri:2, instance:com.amazon.testcases.ShoppingCartTest@618c5d94]" started-at="2023-07-19T15:26:37 EDT" name="verify_Functionality_of_Removing_Item_From_The_Cart" finished-at="2023-07-19T15:27:11 EDT" duration-ms="33492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Functionality_of_Removing_Item_From_The_Cart -->
+        <test-method signature="verify_Functionality_of_Adding_Multiple_Item_To_The_Cart()[pri:3, instance:com.amazon.testcases.ShoppingCartTest@618c5d94]" started-at="2023-07-19T15:27:11 EDT" name="verify_Functionality_of_Adding_Multiple_Item_To_The_Cart" finished-at="2023-07-19T15:27:37 EDT" duration-ms="26252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Functionality_of_Adding_Multiple_Item_To_The_Cart -->
+      </class> <!-- com.amazon.testcases.ShoppingCartTest -->
+      <class name="com.amazon.testcases.HomepageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.testcases.HomepageTest@2d901eb0]" started-at="2023-07-19T15:25:56 EDT" name="setup" finished-at="2023-07-19T15:26:01 EDT" duration-ms="5291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="basic_Test_To_Validate_Homepage()[pri:0, instance:com.amazon.testcases.HomepageTest@2d901eb0]" started-at="2023-07-19T15:26:01 EDT" name="basic_Test_To_Validate_Homepage" finished-at="2023-07-19T15:26:09 EDT" duration-ms="7955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basic_Test_To_Validate_Homepage -->
+      </class> <!-- com.amazon.testcases.HomepageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
